@@ -3,7 +3,7 @@ const app = express();
 const PORT = 5000;
 const person = require("./models/person.js");
 const mongoose = require("mongoose");
-const url = "mongodb+srv://yomirose57:Johntosin24@cluster0.mlljw4j.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+const url = " ";
 
 const connectionParams={
     useNewUrlParser: true,
